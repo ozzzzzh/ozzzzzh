@@ -1,6 +1,50 @@
-## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozzzzzzh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzzzzzh&layout=compact)
+<h1 align="center">Hello World!</h1>
+<p align="center">I'm <strong>Egan</strong> or <strong>ozzzzzh</strong> or <strong>都不吃大白菜</strong> 👋</p>
+
+<p align="center">
+  <a href="https://github.com/ozzzzzh">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Software+Engineer;Big+Data+Developer;AI-Powered+Builder;Cyber+Artist&font=Fira+Code&center=true&width=600&height=50&color=b3cfac&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded-C/C++-blue?style=flat-square&logo=c%2B%2B" alt="Embedded">
+  <img src="https://img.shields.io/badge/Big_Data-Python-3776AB?style=flat-square&logo=python" alt="Big Data">
+  <img src="https://img.shields.io/badge/AI_Powered-Builder-FF6F00?style=flat-square&logo=openai" alt="AI">
+  <img src="https://komarev.com/ghpvc/?username=ozzzzzh&color=36BCF7&style=flat-square" alt="Visitors">
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🔌 Used to be an embedded software engineer (it's so fking fun, i have burned so many chips)
+- 📊 Big data developer now
+- 🤖 Using AI to develop everything.
+- 🎨 I love all beautiful things, try to be a cyber artist.
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <br>
+  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white" alt="SVN">
+  <img src="https://img.shields.io/badge/GNU-Toolchain-A42E2B?style=flat-square&logo=gnu&logoColor=white" alt="GNU">
+</p>
+
+<p align="center">
+  <i>Thanks for visiting! ⭐️</i>
+</p>
 
 
 <!--
