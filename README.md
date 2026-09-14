@@ -6,12 +6,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Software+Engineer;Big+Data+Developer;AI-Powered+Builder;Cyber+Artist&font=Fira+Code&center=true&width=600&height=50&color=b3cfac&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/Embedded-C/C++-blue?style=flat-square&logo=c%2B%2B" alt="Embedded">
-  <img src="https://img.shields.io/badge/Big_Data-Python-3776AB?style=flat-square&logo=python" alt="Big Data">
-  <img src="https://img.shields.io/badge/AI_Powered-Builder-FF6F00?style=flat-square&logo=openai" alt="AI">
-  <img src="https://komarev.com/ghpvc/?username=ozzzzzh&color=36BCF7&style=flat-square" alt="Visitors">
-</p> -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozzzzzh/ozzzzzh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozzzzzh/ozzzzzh/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ozzzzzh/ozzzzzh/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
